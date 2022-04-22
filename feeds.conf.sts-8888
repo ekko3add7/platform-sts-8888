@@ -1,1 +1,2 @@
 src-link applications ../applications
+src-git sdwn https://gitlab.hhi.fraunhofer.de/wn-ina/ovsd.git
